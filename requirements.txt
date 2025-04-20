@@ -3,5 +3,5 @@ opencv-python
 numpy
 keras
 tensorflow
-uvicorn[standard]
+uvicorn
 python-multipart
